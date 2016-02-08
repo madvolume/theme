@@ -222,7 +222,9 @@ html {
 .home>header {
     height: 500px;
 
-    
+    .outer-wrapper {
+        padding: 120px 0 !important;
+    }
 }
 
 //-----------------
